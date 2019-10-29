@@ -1,0 +1,13 @@
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\bin\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.deps.json
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\bin\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.dll
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\bin\Debug\netstandard2.0\ref\NRecoLambdaParser.Issue21.XamarinForms.dll
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\bin\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.pdb
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.csprojAssemblyReference.cache
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.AssemblyInfoInputs.cache
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.AssemblyInfo.cs
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.dll
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\ref\NRecoLambdaParser.Issue21.XamarinForms.dll
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\NRecoLambdaParser.Issue21.XamarinForms.pdb
+D:\Github\NRecoLambdaParser.Issue21.XamarinForms\NRecoLambdaParser.Issue21.XamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
